@@ -1,8 +1,8 @@
 {
   "name": "eat-n-split",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://alenavin.github.io/react-split-bill",
+  "private": true,
+  "homepage": "https://alenavin.github.io/react-bill-split",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
